@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Burskiii
 - 👀 I’m interested in hand craft and embedded system engineering
-- 🌱 I’m currently learning C and C++ in 42Berlin
+- 🌱 I’m currently learning C and C++ in 42Berlin and Java in University Brandenburg
 - 💞️ currently I'm forcusing on the projects in 42Berlin
 - 📫 How to reach me? PM
 - 😄 Pronouns: She/Her
