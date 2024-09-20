@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Burskiii
-- 👀 I’m interested in hand craft and embedded System engineering
+- 👀 I’m interested in hand craft and embedded system engineering
 - 🌱 I’m currently learning C and C++ in 42Berlin
 - 💞️ currently I'm forcusing on the projects in 42Berlin
 - 📫 How to reach me? PM
