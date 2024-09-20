@@ -4,4 +4,4 @@
 - 💞️ currently I'm forcusing on the projects in 42Berlin
 - 📫 How to reach me? PM
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I used to work in gaming industry as a publishing Manager for few years. I'm an indie business owner and my cat instagram has 20x more followers than me.
+- ⚡ Fun fact: I used to work in gaming industry as a publishing Manager for few years. I'm an indie business owner and my cat has 20x more Instagram followers than me.
