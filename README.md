@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @Burskiii
-- 👀 I’m interested in hand craft and embedded system engineering
-- 🌱 I’m currently learning C and C++ in 42Berlin
-- 💞️ currently I'm forcusing on the projects in 42Berlin
+- 🌱 I’m currently learning C and C++
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I used to work in gaming industry as a publishing Manager for few years. I'm an indie business owner and my cat has 20x more Instagram followers than me.
