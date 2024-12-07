@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Burskiii
+- 👋 Hi, I’m @BB
 - 🌱 I’m currently learning C and C++
 - 😄 Pronouns: She/Her
